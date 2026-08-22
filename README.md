@@ -1,1 +1,2 @@
 # test
+self_test
